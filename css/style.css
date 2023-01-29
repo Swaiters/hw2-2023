@@ -41,10 +41,11 @@ img{
     text-align: right;
     margin-left: 50px;
     /* border: 0px 0px 2px 5px; */
-    border-top: 0px;
+    /* border-top: 0px;
     border-right: 0px;
     border-bottom: 2px;
-    border-left: 5px;
+    border-left: 5px; */
+    border-width:0px 0px 2px 5px; 
 
 }
 
@@ -53,10 +54,12 @@ img{
     text-align: left;
     margin-right: 50px;
     /* border: 2px 5px 0px 0px; */
-    border-top: 2px;
+    /* border-top: 2px;
     border-right: 5px;
     border-bottom: 0px;
-    border-left: 0px ;
+    border-left: 0px ; */
+    border-width: 2px 5px 0px 0px ;
+
     /* could aslo place  color :#c4c4c4 here to style the <p> elements */
 }
 .blue h2{
@@ -70,10 +73,11 @@ img{
     text-align: right;
     margin-left: 50px;
     /* border: 0px 0px 2px 5px; */
-    border-top: 0px;
+    /* border-top: 0px;
     border-right: 0px;
     border-bottom: 2px;
-    border-left: 5px;
+    border-left: 5px; */
+    border-width: 0px 0px 2px 5px;
     
 }
 .yellow p{
@@ -84,10 +88,11 @@ img{
     text-align: left;
     margin-right: 50px;
     /* border: 2px 5px 0px 0px; */
-    border-top: 2px;
+   /*  border-top: 2px;
     border-right: 5px;
     border-bottom: 0px;
-    border-left: 0px;
+    border-left: 0px; */
+    border-width: 2px 5px 0px 0px;
 }
 footer{
     background-image: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000 ); 
